@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-24T17:04:03 EST" name="chapter.hibernate.PersistanceTest" finished-at="2022-01-24T17:04:05 EST" duration-ms="2041">
+    <groups>
+    </groups>
+    <test started-at="2022-01-24T17:04:03 EST" name="Command line test" finished-at="2022-01-24T17:04:05 EST" duration-ms="2041">
+      <class name="chapter.hibernate.PersistanceTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:chapter.hibernate.PersistanceTest@17baae6e]" started-at="2022-01-24T17:04:03 EST" name="setup" finished-at="2022-01-24T17:04:05 EST" duration-ms="1712" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testReadMessage()[pri:0, instance:chapter.hibernate.PersistanceTest@17baae6e]" started-at="2022-01-24T17:04:05 EST" name="testReadMessage" finished-at="2022-01-24T17:04:05 EST" duration-ms="301" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testReadMessage -->
+      </class> <!-- chapter.hibernate.PersistanceTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- chapter.hibernate.PersistanceTest -->
+</testng-results>
